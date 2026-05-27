@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrelete",
+        "uuid": 25326555,
+        "checksum": "nimc4r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
